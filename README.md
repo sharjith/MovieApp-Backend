@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need following softwares before running this application.
+You need following pieces of software before running this application.
 
 1. Java 8 SDK
 2. Apache Maven 3.3 build tool
@@ -61,6 +61,6 @@ output
     ```
 
 8. Try accessing implemented API endpoints using swagger-ui, a plugin configured in the application.
-Open `http://localhost:8080/api/swagger-ui.html` in a browser and you should see all API endpoint implementation.
+Open `http://localhost:8080/api/swagger-ui.html` in a browser, and you should see all API endpoint implementation.
 
 > Best wishes!

@@ -18,4 +18,11 @@
       <module name="movieapp-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="movieapp-api" options="-parameters" />
+      <module name="movieapp-db" options="-parameters" />
+      <module name="movieapp-service" options="-parameters" />
+    </option>
+  </component>
 </project>

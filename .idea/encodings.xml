@@ -3,7 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapp-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movieapp-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapp-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movieapp-db/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movieapp-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movieapp-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
